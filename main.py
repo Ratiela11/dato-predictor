@@ -66,4 +66,4 @@ async def mines(interaction: discord.Interaction, tile_amt: int, round_id : str)
         await interaction.response.send_message(embed=em)
 
  
-client.run('MTE2MDE2MTMxMzgwNTMxNjE4Ng.GMgpYs.dMcNkdOHxP5-NVzpg2gq5QuAbsUq5Q-qhfeG-s')
+client.run('MTE2MDE2MTMxMzgwNTMxNjE4Ng.GK-4U8.IuB5PbyHt0aLTl-2OBYoGK6b6-JOxZrhCbwiVc')
